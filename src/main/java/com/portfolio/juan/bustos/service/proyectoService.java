@@ -53,6 +53,8 @@ public class proyectoService implements IProyectoService{
         {
             proyeMod.setFecha(proyecto.getFecha());
         }
+
+        proyeRepo.save(proyeMod);
     }
 
     @Override
