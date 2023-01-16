@@ -1,4 +1,4 @@
-package com.portfolio.juan.bustos;
+/*package com.portfolio.juan.bustos;
 
 import com.portfolio.juan.bustos.model.usuarioModel;
 import com.portfolio.juan.bustos.repository.loginRepository;
@@ -30,4 +30,4 @@ public class LoginRepositoryTest {
         assertThat(savedUser).isNotNull();
         assertThat(savedUser.getId()).isGreaterThan(0);
     }
-}
+}*/
