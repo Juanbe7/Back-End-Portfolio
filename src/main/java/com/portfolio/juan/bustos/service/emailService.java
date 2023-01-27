@@ -20,6 +20,7 @@ public class emailService {
     {
         SimpleMailMessage message = new SimpleMailMessage();
         message.setTo("jemiliobus@gmail.com");
+        Remitente = email.getEmailDe();
         message.setText(email.getMensaje() +"\nEmail: "+email.getEmailDe());
         message.setSubject("Contacto por medio de portfolio Nombre: "+email.getNombreDe());
 
