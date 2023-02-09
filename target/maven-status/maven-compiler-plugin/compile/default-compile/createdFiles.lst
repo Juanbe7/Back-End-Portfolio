@@ -17,7 +17,6 @@ com\portfolio\juan\bustos\repository\loginRepository.class
 com\portfolio\juan\bustos\service\proyectoService.class
 com\portfolio\juan\bustos\model\usuarioModel.class
 com\portfolio\juan\bustos\Application.class
-.netbeans_automatic_build
 com\portfolio\juan\bustos\repository\proyectoRepository.class
 com\portfolio\juan\bustos\service\loginService.class
 com\portfolio\juan\bustos\controller\habilidadController.class
